@@ -3,6 +3,10 @@ description: Arduino Adafruit BMP085 library
 type: lib
 version: 1.0
 
+libs_version: ${mos.version}
+modules_version: ${mos.version}
+mongoose_os_version: ${mos.version}
+
 sources:
   - src
 includes:
